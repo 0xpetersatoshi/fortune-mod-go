@@ -1,2 +1,2 @@
 # fortune-mod-go
-A clone of the Unix fortune command, implemented in Go!
+A clone of the Unix `fortune` command, implemented in Go!
